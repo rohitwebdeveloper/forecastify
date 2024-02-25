@@ -1,0 +1,45 @@
+.navbarContainer{
+    width: 100%;
+    border-bottom: 2px solid white;
+    background-color:transparent;
+    padding: 8px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px auto;
+
+    
+}
+
+.appName{
+    font-size: 1.4rem;
+    font-weight: bold;
+    border: 4px solid white;
+    color: white;
+    padding: 5px 10px;
+    font-family: system-ui, sans-serif;
+    border-radius: 8px;
+
+}
+
+.navbar{
+    max-width: 1450px;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    max-width: 900px;
+    width: 100%;
+}
+
+.forecastLink{
+    font-family:system-ui, sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+    color: white;
+
+}
+
+.active{
+  text-decoration: underline;
+}

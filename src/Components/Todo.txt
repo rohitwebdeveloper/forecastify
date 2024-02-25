@@ -1,0 +1,1 @@
+In  Location search use  usestate (setlatitude, and setlongitude ) inside navigator.geolocation function to get the global value of latitude and longitude and use it in the api url link.
